@@ -2,6 +2,7 @@ RENCANA KONTEN WPU
 
 - Javascript
 * ES6
+* Coding
 * Framework Javascript
 - Struktur Data Dasar
 - PHP 
